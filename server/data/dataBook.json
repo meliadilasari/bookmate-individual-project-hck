@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 1,
+    "title": "KING OF SLOTH",
+    "authors": "Ana Huang",
+    "publisher": "Bloom",
+    "description": "The fourth book in the Kings of Sin series. A tragedy forces a billionaire heir and his publicist to confront their feelings for each other.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728289755.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 2,
+    "title": "FUNNY STORY",
+    "authors": "Emily Henry",
+    "publisher": "Berkley",
+    "description": "After their exes run off together, Daphne and Miles form a friendship and concoct a plan involving misleading photos.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593441282.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 3,
+    "title": "THE WOMEN",
+    "authors": "Kristin Hannah",
+    "publisher": "St. Martin's",
+    "description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 4,
+    "title": "A COURT OF THORNS AND ROSES",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 5,
+    "title": "ONLY THE BRAVE",
+    "authors": "Danielle Steel",
+    "publisher": "Delacorte",
+    "description": "In World War II Germany, Sophia Alexander joins the resistance and faces several kinds of loss of family members.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593498439.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 6,
+    "title": "HOME IS WHERE THE BODIES ARE",
+    "authors": "Jeneva Rose",
+    "publisher": "Blackstone",
+    "description": "Three estranged siblings find evidence of a dark secret involving their absent father and recently deceased mother.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9798212182843.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 7,
+    "title": "A CALAMITY OF SOULS",
+    "authors": "David Baldacci",
+    "publisher": "Grand Central",
+    "description": "Lawyers from different backgrounds represent a Black man charged with killing a wealthy white couple in Virginia in 1968.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 8,
+    "title": "A COURT OF MIST AND FURY",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The second book in the Court of Thorns and Roses series. Feyre gains the powers of the High Fae and a greater evil emerges.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575583.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 9,
+    "title": "FOURTH WING",
+    "authors": "Rebecca Yarros",
+    "publisher": "Red Tower",
+    "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 10,
+    "title": "JUST FOR THE SUMMER",
+    "authors": "Ab Jimenez",
+    "publisher": "Forever",
+    "description": "Justin and Emma, whose exes find soulmates after breaking up with them, have a fling on a private island on Lake Minnetonka.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538704431.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 11,
+    "title": "IRON FLAME",
+    "authors": "Rebecca Yarros",
+    "publisher": "Red Tower",
+    "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 12,
+    "title": "A COURT OF WINGS AND RUIN",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The third book in the Court of Thorns and Roses series. As war approaches, Feyre endeavors to take charge of her magical and political powers.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575606.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 13,
+    "title": "MURDER YOUR EMPLOYER",
+    "authors": "Rupert Holmes",
+    "publisher": "Avid Reader",
+    "description": "At the McMasters Conservatory for the Applied Arts, students learn how to “delete” someone.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668024485.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 14,
+    "title": "HAPPY PLACE",
+    "authors": "Emily Henry",
+    "publisher": "Berkley",
+    "description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 15,
+    "title": "A COURT OF FROST AND STARLIGHT",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The fourth book in the Court of Thorns and Roses series. After alterations incurred by war, Winter Solstice approaches.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575620.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 16,
+    "title": "THE DEMON OF UNREST",
+    "authors": "Erik Larson",
+    "publisher": "Crown",
+    "description": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385348744.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 17,
+    "title": "THE ANXIOUS GENERATION",
+    "authors": "Jonathan Haidt",
+    "publisher": "Penguin Press",
+    "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593655030.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 18,
+    "title": "UNCOMFORTABLE CONVERSATIONS WITH A JEW",
+    "authors": "Emmanuel Acho and Noa Tish",
+    "publisher": "Simon Element",
+    "description": "A wide-ranging examination of Judaism and antisemitism in America today.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668057858.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 19,
+    "title": "AN UNFINISHED LOVE STORY",
+    "authors": "Doris Kearns Goodwin",
+    "publisher": "Simon & Schuster",
+    "description": "A trove of items collected by the Pulitzer Prize-winning historian’s late husband inspired an appraisal of central figures and pivotal moments of the 1960s.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982108663.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 20,
+    "title": "FOR LOVE OF COUNTRY",
+    "authors": "Tulsi Gabbard",
+    "publisher": "Regnery",
+    "description": "The Army Reserve officer, former member of Congress and 2020 presidential candidate explains why she left the Democratic Party.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781684514854.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 21,
+    "title": "THE AGE OF GRIEVANCE",
+    "authors": "Frank Bruni",
+    "publisher": "Avid Reader",
+    "description": "The New York Times contributing Opinion writer evaluates the tone of our current culture and politics, which interweaves larger wrongs and smaller slights.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668016435.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 22,
+    "title": "THE BODY KEEPS THE SCORE",
+    "authors": "Bessel van der Kolk",
+    "publisher": "Penguin",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 23,
+    "title": "BRAIDING SWEETGRASS",
+    "authors": "Robin Wall Kimmerer",
+    "publisher": "Milkweed Editions",
+    "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 24,
+    "title": "LOVE, MOM",
+    "authors": "Nicole Saphier",
+    "publisher": "Broadside",
+    "description": "Fox News anchors and personalities contribute to a collection of reflections on motherhood.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063325654.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 25,
+    "title": "THE WAGER",
+    "authors": "David Grann",
+    "publisher": "Doubleday",
+    "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 26,
+    "title": "THE WIDE WIDE SEA",
+    "authors": "Hampton Sides",
+    "publisher": "Doubleday",
+    "description": "The author of “On Desperate Ground” depicts Captain James Cook’s final voyage and the controversies surrounding its legacy.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385544764.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 27,
+    "title": "NUCLEAR WAR",
+    "authors": "Annie Jacobsen",
+    "publisher": "Dutton",
+    "description": "The author of “Operation Paperclip” portrays possible outcomes in the minutes following a nuclear missile launch.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593476093.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 28,
+    "title": "OUTLIVE",
+    "authors": "Peter Attia with Bill Gifford",
+    "publisher": "Harmony",
+    "description": "A look at recent scientific research on aging and longevity.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 29,
+    "title": "THE LIGHT WE CARRY",
+    "authors": "Michelle Obama",
+    "publisher": "Crown",
+    "description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593237489.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 30,
+    "title": "KNIFE",
+    "authors": "Salman Rushdie",
+    "publisher": "Random House",
+    "description": "The Booker Prize-winning author details the attack on him at the Chautauqua Institution in 2022 and the steps he took to heal from it.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593730249.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 31,
+    "title": "FUNNY STORY",
+    "authors": "Emily Henry",
+    "publisher": "Berkley",
+    "description": "After their exes run off together, Daphne and Miles form a friendship and concoct a plan involving misleading photos.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593441282.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 32,
+    "title": "THE WOMEN",
+    "authors": "Kristin Hannah",
+    "publisher": "St. Martin's",
+    "description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 33,
+    "title": "HOME IS WHERE THE BODIES ARE",
+    "authors": "Jeneva Rose",
+    "publisher": "Blackstone",
+    "description": "Three estranged siblings find evidence of a dark secret involving their absent father and recently deceased mother.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9798212182843.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 34,
+    "title": "ONLY THE BRAVE",
+    "authors": "Danielle Steel",
+    "publisher": "Delacorte",
+    "description": "In World War II Germany, Sophia Alexander joins the resistance and faces several kinds of loss of family members.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593498439.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 35,
+    "title": "FOURTH WING",
+    "authors": "Rebecca Yarros",
+    "publisher": "Red Tower",
+    "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 36,
+    "title": "A CALAMITY OF SOULS",
+    "authors": "David Baldacci",
+    "publisher": "Grand Central",
+    "description": "Lawyers from different backgrounds represent a Black man charged with killing a wealthy white couple in Virginia in 1968.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 37,
+    "title": "IRON FLAME",
+    "authors": "Rebecca Yarros",
+    "publisher": "Red Tower",
+    "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 38,
+    "title": "TABLE FOR TWO",
+    "authors": "Amor Towles",
+    "publisher": "Viking",
+    "description": "A collection of six short stories based in New York City around the year 2000 and a novella set during the Golden Age of Hollywood.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593296370.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 39,
+    "title": "REAL AMERICANS",
+    "authors": "Rachel Khong",
+    "publisher": "Knopf",
+    "description": "Three generations of a Chinese American family deal with race, class and secrets.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593537251.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 40,
+    "title": "THE FAMILIAR",
+    "authors": "Leigh Bardugo",
+    "publisher": "Flatiron",
+    "description": "Luzia Cotado encounters dangers when her magic draws the attention of the disgraced secretary to Spain's king.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250884251.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 41,
+    "title": "REMARKABLY BRIGHT CREATURES",
+    "authors": "Shel Van Pelt",
+    "publisher": "Ecco",
+    "description": "A widow working the night shift at the Sowell Bay Aquarium is aided in solving a mystery by a giant Pacific octopus living there.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063204157.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 42,
+    "title": "THE HEAVEN & EARTH GROCERY STORE",
+    "authors": "James McBride",
+    "publisher": "Riverhead",
+    "description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 43,
+    "title": "JAMES",
+    "authors": "Percival Everett",
+    "publisher": "Doubleday",
+    "description": "A reimagining of “Adventures of Huckleberry Finn” shines a different light on Mark Twain's classic, revealing new facets of the character of Jim.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385550369.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 44,
+    "title": "TOXIC PREY",
+    "authors": "John Sandford",
+    "publisher": "Putnam",
+    "description": "The 34th book in the Prey series. Letty and Lucas must find an expert on tropical and infectious diseases before a virus becomes weaponized.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593714492.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 45,
+    "title": "HOUSE OF FLAME AND SHADOW",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The third book in the Crescent City series. Bryce wants to return home while Hunt is trapped in Asteri's dungeons.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635574104.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 46,
+    "title": "THE DEMON OF UNREST",
+    "authors": "Erik Larson",
+    "publisher": "Crown",
+    "description": "The author of “The Splendid and the Vile” portrays the months between the election of Abraham Lincoln and the beginning of the Civil War.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385348744.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 47,
+    "title": "THE ANXIOUS GENERATION",
+    "authors": "Jonathan Haidt",
+    "publisher": "Penguin Press",
+    "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593655030.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 48,
+    "title": "UNCOMFORTABLE CONVERSATIONS WITH A JEW",
+    "authors": "Emmanuel Acho and Noa Tish",
+    "publisher": "Simon Element",
+    "description": "A wide-ranging examination of Judaism and antisemitism in America today.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668057858.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 49,
+    "title": "FOR LOVE OF COUNTRY",
+    "authors": "Tulsi Gabbard",
+    "publisher": "Regnery",
+    "description": "The Army Reserve officer, former member of Congress and 2020 presidential candidate explains why she left the Democratic Party.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781684514854.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 50,
+    "title": "AN UNFINISHED LOVE STORY",
+    "authors": "Doris Kearns Goodwin",
+    "publisher": "Simon & Schuster",
+    "description": "A trove of items collected by the Pulitzer Prize-winning historian’s late husband inspired an appraisal of central figures and pivotal moments of the 1960s.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982108663.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 51,
+    "title": "LOVE, MOM",
+    "authors": "Nicole Saphier",
+    "publisher": "Broadside",
+    "description": "Fox News anchors and personalities contribute to a collection of reflections on motherhood.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063325654.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 52,
+    "title": "THE AGE OF GRIEVANCE",
+    "authors": "Frank Bruni",
+    "publisher": "Avid Reader",
+    "description": "The New York Times contributing Opinion writer evaluates the tone of our current culture and politics, which interweaves larger wrongs and smaller slights.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668016435.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 53,
+    "title": "THE WAGER",
+    "authors": "David Grann",
+    "publisher": "Doubleday",
+    "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 54,
+    "title": "OUTLIVE",
+    "authors": "Peter Attia with Bill Gifford",
+    "publisher": "Harmony",
+    "description": "A look at recent scientific research on aging and longevity.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 55,
+    "title": "THE WIDE WIDE SEA",
+    "authors": "Hampton Sides",
+    "publisher": "Doubleday",
+    "description": "The author of “On Desperate Ground” depicts Captain James Cook’s final voyage and the controversies surrounding its legacy.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385544764.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 56,
+    "title": "KNIFE",
+    "authors": "Salman Rushdie",
+    "publisher": "Random House",
+    "description": "The Booker Prize-winning author details the attack on him at the Chautauqua Institution in 2022 and the steps he took to heal from it.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593730249.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 57,
+    "title": "I'M GLAD MY MOM DIED",
+    "authors": "Jennette McCurdy",
+    "publisher": "Simon & Schuster",
+    "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 58,
+    "title": "SOMEHOW",
+    "authors": "Anne Lamott",
+    "publisher": "Riverhead",
+    "description": "Meditations and stories about the transformational power of love by the author of “Dusk, Night, Dawn” and “Bird by Bird.”",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593714416.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 59,
+    "title": "AGE OF REVOLUTIONS",
+    "authors": "Fareed Zakaria",
+    "publisher": "Norton",
+    "description": "The CNN host draws out lessons for the present polarized era from the 17th-century Netherlands, the French Revolution and the Industrial Revolution.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780393239232.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 60,
+    "title": "NUCLEAR WAR",
+    "authors": "Annie Jacobsen",
+    "publisher": "Dutton",
+    "description": "The author of “Operation Paperclip” portrays possible outcomes in the minutes following a nuclear missile launch.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593476093.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 61,
+    "title": "KING OF SLOTH",
+    "authors": "Ana Huang",
+    "publisher": "Bloom",
+    "description": "The fourth book in the Kings of Sin series. A tragedy forces a billionaire heir and his publicist to confront their feelings for each other.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728289755.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 62,
+    "title": "A COURT OF THORNS AND ROSES",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 63,
+    "title": "A COURT OF MIST AND FURY",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The second book in the Court of Thorns and Roses series. Feyre gains the powers of the High Fae and a greater evil emerges.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575583.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 64,
+    "title": "HAPPY PLACE",
+    "authors": "Emily Henry",
+    "publisher": "Berkley",
+    "description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 65,
+    "title": "JUST FOR THE SUMMER",
+    "authors": "Ab Jimenez",
+    "publisher": "Forever",
+    "description": "Justin and Emma, whose exes find soulmates after breaking up with them, have a fling on a private island on Lake Minnetonka.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538704431.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 66,
+    "title": "TWISTED LOVE",
+    "authors": "Ana Huang",
+    "publisher": "Bloom",
+    "description": "The first book in the Twisted series. Secrets emerge when Ava explores things with her brother’s best friend.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728274867.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 67,
+    "title": "MURDER YOUR EMPLOYER",
+    "authors": "Rupert Holmes",
+    "publisher": "Avid Reader",
+    "description": "At the McMasters Conservatory for the Applied Arts, students learn how to “delete” someone.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668024485.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 68,
+    "title": "THE HOUSEMAID",
+    "authors": "Freida McFadden",
+    "publisher": "Grand Central",
+    "description": "Troubles surface when a woman looking to make a fresh start takes a job in the home of the Winchesters.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538742570.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 69,
+    "title": "A COURT OF WINGS AND RUIN",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The third book in the Court of Thorns and Roses series. As war approaches, Feyre endeavors to take charge of her magical and political powers.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575606.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 70,
+    "title": "ICEBREAKER",
+    "authors": "Hannah Grace",
+    "publisher": "Atria",
+    "description": "Anastasia might need the help of the captain of a college hockey team to get on the Olympic figure skating team.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668026038.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 71,
+    "title": "A COURT OF FROST AND STARLIGHT",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The fourth book in the Court of Thorns and Roses series. After alterations incurred by war, Winter Solstice approaches.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575620.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 72,
+    "title": "THE TATTOOIST OF AUSCHWITZ",
+    "authors": "Heather Morris",
+    "publisher": "Harper",
+    "description": "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them; the basis of the TV series.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780062797155.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 73,
+    "title": "A COURT OF SILVER FLAMES",
+    "authors": "Sarah J. Maas",
+    "publisher": "Bloomsbury",
+    "description": "The fifth book in the Court of Thorns and Roses series. Nesta Archeron is forced into close quarters with a warrior named Cassian.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781681196282.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 74,
+    "title": "THE TEACHER",
+    "authors": "Freida McFadden",
+    "publisher": "Poisoned Pen",
+    "description": "A math teacher at Caseham High suspects there is more going on behind a scandal involving a teacher and a student.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728296210.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 75,
+    "title": "IT ENDS WITH US",
+    "authors": "Colleen Hoover",
+    "publisher": "Atria",
+    "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 76,
+    "title": "THE BODY KEEPS THE SCORE",
+    "authors": "Bessel van der Kolk",
+    "publisher": "Penguin",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 77,
+    "title": "THE LIGHT WE CARRY",
+    "authors": "Michelle Obama",
+    "publisher": "Crown",
+    "description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593237489.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 78,
+    "title": "KILLERS OF THE FLOWER MOON",
+    "authors": "David Grann",
+    "publisher": "Vintage",
+    "description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil. The fledgling F.B.I. intervened, ineffectively.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 79,
+    "title": "THE HUNDRED YEARS' WAR ON PALESTINE",
+    "authors": "Rashid Khalidi",
+    "publisher": "Metropolitan",
+    "description": "An account of the history of settler colonialism and resistance, based on untapped archival materials and reports.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250787651.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 80,
+    "title": "BRAIDING SWEETGRASS",
+    "authors": "Robin Wall Kimmerer",
+    "publisher": "Milkweed Editions",
+    "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 81,
+    "title": "THE BACKYARD BIRD CHRONICLES",
+    "authors": "Amy Tan",
+    "publisher": "Knopf",
+    "description": "Essays and drawings by the author of “The Joy Luck Club” and “The Bonesetter's Daughter,” which depict a search for peace through birding.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593536131.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 82,
+    "title": "EVERYTHING I KNOW ABOUT LOVE",
+    "authors": "Dolly Alderton",
+    "publisher": "Harper Perennial",
+    "description": "The British journalist shares stories and observations; the basis of the TV series.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780062968791.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 83,
+    "title": "THINK AGAIN",
+    "authors": "Adam Grant",
+    "publisher": "Penguin",
+    "description": "An examination of the cognitive skills of rethinking and unlearning that could be used to adapt to a rapidly changing world.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781984878106.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 84,
+    "title": "THINKING, FAST AND SLOW",
+    "authors": "Daniel Kahneman",
+    "publisher": "Farrar, Straus & Giroux",
+    "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 85,
+    "title": "POVERTY, BY AMERICA",
+    "authors": "Matthew Desmond",
+    "publisher": "Crown",
+    "description": "The Pulitzer Prize-winning author of “Evicted” examines the ways in which affluent Americans keep poor people poor.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593239919.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 86,
+    "title": "MASTERS OF THE AIR",
+    "authors": "Donald L. Miller",
+    "publisher": "Simon & Schuster",
+    "description": "An account of the American Eighth Air Force in World War II; the basis of the TV series.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780743235457.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 87,
+    "title": "THE GLASS CASTLE",
+    "authors": "Jeannette Walls",
+    "publisher": "Scribner",
+    "description": "The author recalls how she and her siblings were constantly moved from one bleak place to another.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780743247542.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 88,
+    "title": "ISRAEL",
+    "authors": "Noa Tish",
+    "publisher": "Free Press",
+    "description": "A chronological timeline of the country and personal anecdotes by the author.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982144944.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 89,
+    "title": "TALKING TO STRANGERS",
+    "authors": "Malcolm Gladwell",
+    "publisher": "Back Bay",
+    "description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 90,
+    "title": "ALL ABOUT LOVE",
+    "authors": "bell hooks",
+    "publisher": "Morrow",
+    "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 91,
+    "title": "THE NEW MENOPAUSE",
+    "authors": "Mary Claire Haver",
+    "publisher": "Rodale",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593796252.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 92,
+    "title": "ADHD IS AWESOME",
+    "authors": "Penn Holderness and Kim Holderness",
+    "publisher": "Harper Horizon",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781400338610.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 93,
+    "title": "ATOMIC HABITS",
+    "authors": "James Clear",
+    "publisher": "Avery",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 94,
+    "title": "POWER MOVES",
+    "authors": "Sarah Jakes Roberts",
+    "publisher": "Thomas Nelson",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780785291909.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 95,
+    "title": "THE ALGEBRA OF WEALTH",
+    "authors": "Scott Galloway",
+    "publisher": "Portfolio",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593714027.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 96,
+    "title": "OPEN WIDE",
+    "authors": "Benny Blanco with Jess Damuck",
+    "publisher": "Dey Street",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063315938.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 97,
+    "title": "THE CREATIVE ACT",
+    "authors": "Rick Rubin with Neil Strauss",
+    "publisher": "Penguin Press",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593652886.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 98,
+    "title": "THE BOY, THE MOLE, THE FOX AND THE HORSE",
+    "authors": "Charlie Mackesy",
+    "publisher": "HarperOne",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780062976581.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 99,
+    "title": "MAKE YOUR BED",
+    "authors": "William H. McRaven",
+    "publisher": "Grand Central",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781455570249.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 100,
+    "title": "JUST THE GOOD STUFF",
+    "authors": "Jim VandeHei",
+    "publisher": "Harmony",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593796375.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 101,
+    "title": "WONDER",
+    "authors": "R.J. Palacio",
+    "publisher": "Knopf",
+    "description": "A boy with a facial deformity starts school. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 102,
+    "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
+    "authors": "America's Test Kitchen Kids",
+    "publisher": "Sourcebooks Jabberwocky",
+    "description": "Over 100 kid-tested recipes from America's Test Kitchen. (Ages 8 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781492670025.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 103,
+    "title": "HEROES",
+    "authors": "Alan Gratz",
+    "publisher": "Scholastic",
+    "description": "The friends Frank and Stanley give a vivid account of the Pearl Harbor attack. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338736076.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 104,
+    "title": "FERRIS",
+    "authors": "Kate DiCamillo",
+    "publisher": "Candlewick",
+    "description": "During the summer before fifth grade, 10 year-old Ferris contends with friends’ and family’s bouts with love. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781536231052.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 105,
+    "title": "THE SUN AND THE STAR",
+    "authors": "Rick Riordan and Mark Oshiro",
+    "publisher": "Disney Hyperion",
+    "description": "The demigods Will and Nico embark on a dangerous journey to the Underworld to rescue an old friend. (Ages 10 to 14)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781368081153.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 106,
+    "title": "WINGS OF FIRE: A GUIDE TO THE DRAGON WORLD",
+    "authors": "Tui T. Sutherland.",
+    "publisher": "Scholastic",
+    "description": "A deeper dive into the legends of the 10 dragon tribes. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338634822.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 107,
+    "title": "ODDER",
+    "authors": "Katherine Applegate.",
+    "publisher": "Feiwel & Friends",
+    "description": "After a shark attack, Odder recuperates at the aquarium with the scientists who raised her. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250147424.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 108,
+    "title": "THE EYES AND THE IMPOSSIBLE",
+    "authors": "Dave Eggers. Illustrations  Shawn Harris",
+    "publisher": "Knopf, McSweeney's",
+    "description": "A dog who serves as the eyes for three bison in a park enclosure devises a plan to free them. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781524764203.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 109,
+    "title": "A HORSE NAMED SKY",
+    "authors": "Rosanne Parry.",
+    "publisher": "Greenwillow",
+    "description": "The coming-of-age story of a young colt named Sky. (Ages 8 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780062995957.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 110,
+    "title": "COYOTE LOST AND FOUND",
+    "authors": "Dan Gemeinhart",
+    "publisher": "Holt",
+    "description": "A father and daughter venture on a cross-country road trip. (Ages 9 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250292773.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 111,
+    "title": "WHAT DO YOU DO WITH AN IDEA?",
+    "authors": "Kobi Yamada.",
+    "publisher": "Compendium",
+    "description": "Giving a new idea the room to grow. (Ages 5 to 8)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781938298073.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 112,
+    "title": "WHY A SON NEEDS A MOM",
+    "authors": "Gregory E. Lang.",
+    "publisher": "Sourcebooks Wonderland",
+    "description": "The special bond between mother and son. (Ages 4 to 7)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728235844.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 113,
+    "title": "WHY A DAUGHTER NEEDS A MOM",
+    "authors": "Gregory E. Lang.",
+    "publisher": "Sourcebooks Jabberwocky",
+    "description": "The special bond between mother and daughter. (Ages 4 to 8)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781492667810.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 114,
+    "title": "BECAUSE I HAD A TEACHER",
+    "authors": "Kobi Yamada.",
+    "publisher": "Compendium",
+    "description": "An ode to teachers. (Ages 4 to 7)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781943200085.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 115,
+    "title": "I LOVE MOM WITH THE VERY HUNGRY CATERPILLAR",
+    "authors": "Eric Carle",
+    "publisher": "Grosset & Dunlap",
+    "description": "That ravenous insect is brimming with motherly love. (Ages 3 to 5)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780451533463.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 116,
+    "title": "THANK YOU, TEACHER FROM THE VERY HUNGRY CATERPILLAR",
+    "authors": "Eric Carle",
+    "publisher": "World of Eric Carle",
+    "description": "The insatiable insect's pedagogue appreciation. (Ages 3 to 6)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593226186.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 117,
+    "title": "I WISH YOU MORE",
+    "authors": "Amy Krouse Rosenthal.",
+    "publisher": "Chronicle",
+    "description": "A bounty of good wishes. (Ages 5 to 8)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781452126999.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 118,
+    "title": "THE WONDERFUL THINGS YOU WILL BE",
+    "authors": "Emily Winfield Martin",
+    "publisher": "Random House",
+    "description": "A celebration of future possibilities. (Ages 3 to 7)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385376716.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 119,
+    "title": "DRAGONS LOVE TACOS",
+    "authors": "Adam Rubin.",
+    "publisher": "Dial",
+    "description": "What to serve your dragon-guests. (Ages 3 to 5)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780803736801.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 120,
+    "title": "BLUEY: SLEEPYTIME",
+    "authors": "Joe Brumm",
+    "publisher": "Penguin",
+    "description": "Bingo wants to do a big girl sleep and wake up in her own bed. (Ages 4 to 8)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593659588.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 121,
+    "title": "DIARY OF A WIMPY KID",
+    "authors": "and   Jeff Kinney",
+    "publisher": "Amulet",
+    "description": "The travails and challenges of adolescence. (Ages 9 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781419711329.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 122,
+    "title": "A GOOD GIRL'S GUIDE TO MURDER",
+    "authors": "Holly Jackson",
+    "publisher": "Delacorte",
+    "description": "Pippa Fitz-Amobi solves murderous crimes. (Ages 14 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593379851.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 123,
+    "title": "PERCY JACKSON & THE OLYMPIANS",
+    "authors": "Rick Riordan",
+    "publisher": "Disney-Hyperion",
+    "description": "A boy battles mythological monsters. (Ages 9 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781423131892.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 124,
+    "title": "WHO WAS/IS . . . ?",
+    "authors": "Jim Gigliotti and others; various illustrators",
+    "publisher": "Penguin Workshop",
+    "description": "Biographies unlock legendary lives. (Ages 8 to 11)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780448482996.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 125,
+    "title": "THE WILD ROBOT",
+    "authors": "Peter Brown",
+    "publisher": "Little, Brown",
+    "description": "Roz the robot adapts to her surroundings on a remote, wild island. (Ages 7 to 12)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780316669412.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 126,
+    "title": "HARRY POTTER",
+    "authors": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "description": "A wizard hones his conjuring skills in the service of fighting evil. (Ages 10 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780590353427.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 127,
+    "title": "THE HUNGER GAMES",
+    "authors": "Suzanne Collins",
+    "publisher": "Scholastic",
+    "description": "In a dystopia, a girl fights for survival on live TV. (Ages 12 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780545663267.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 128,
+    "title": "BOYS OF TOMMEN",
+    "authors": "Chloe Walsh",
+    "publisher": "Bloom",
+    "description": "In Ireland, friends at the private school Tommen College prepare for adulthood. (Ages 16 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781464215995.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 129,
+    "title": "THE SUMMER I TURNED PRETTY TRILOGY",
+    "authors": "Jenny Han",
+    "publisher": "Simon & Schuster",
+    "description": "A beach house, summer love and enduring friendships. (Ages 12 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781416995586.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 130,
+    "title": "ONCE UPON A BROKEN HEART",
+    "authors": "Stephanie Garber",
+    "publisher": "Flatiron",
+    "description": "The story of Evangeline Fox, Jacks, the Prince of Hearts and the pursuit of true love. (Ages 13 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250908452.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 131,
+    "title": "POWERFUL",
+    "authors": "Lauren Roberts",
+    "publisher": "Simon & Schuster",
+    "description": "Adena is on her own in Loot, after Paedyn is selected for the Purging Trials. (Ages 14 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781665966887.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 132,
+    "title": "POWERLESS",
+    "authors": "Lauren Roberts",
+    "publisher": "Simon & Schuster",
+    "description": "Forbidden love is in the air when Paedyn, an Ordinary, and Kai, an Elite, become romantically involved. (Ages 14 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781665955997.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 133,
+    "title": "THE REAPPEARANCE OF RACHEL PRICE",
+    "authors": "Holly Jackson",
+    "publisher": "Delacorte",
+    "description": "Annabel Price's mother was presumed dead, until she reappears during the filming of a documentary about her disappearance. (Ages 14 to 17)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593374207.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 134,
+    "title": "DIVINE RIVALS",
+    "authors": "Rebecca Ross",
+    "publisher": "Wednesday",
+    "description": "Two young rival journalists find love through a magical connection. (Ages 13 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 135,
+    "title": "RUTHLESS VOWS",
+    "authors": "Rebecca Ross",
+    "publisher": "Wednesday",
+    "description": "In the sequel to \"Divine Rivals,\" Roman and Iris will risk their hearts and futures to change the tides of the war. (Ages 13 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250857453.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 136,
+    "title": "MURTAGH",
+    "authors": "Christopher Paolini",
+    "publisher": "Knopf",
+    "description": "Murtagh and his dragon, Thorn, must find and outwit a mysterious witch. (Ages 12 to 15)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593650868.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 137,
+    "title": "HEARTLESS HUNTER",
+    "authors": "Kristen Ciccarelli",
+    "publisher": "Wednesday",
+    "description": "Rune, a witch, and Gideon, a witch-hunter, fall in love. (Ages 13 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250866905.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 138,
+    "title": "THE PRISONER'S THRONE",
+    "authors": "Holly Black",
+    "publisher": "Little, Brown",
+    "description": "An imprisoned Prince Oak must decide between his love and his kingdom. (Ages 14 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780316569309.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 139,
+    "title": "NIGHTBANE",
+    "authors": "Alex Aster",
+    "publisher": "Amulet",
+    "description": "In this sequel to \"Lightlark,\" Isla must chose between her two powerful lovers. (Ages 13 and up)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781419760907.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 140,
+    "title": "WHAT THE RIVER KNOWS",
+    "authors": "Isabel Ibañez",
+    "publisher": "Wednesday",
+    "description": "Inez Olivera sets sail to investigate the mysterious deaths of her parents in 1884 Egypt. (Ages 13 to 18)",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250345394.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 141,
+    "title": "THE WOMEN",
+    "authors": "Kristin Hannah",
+    "publisher": "Macmillan Audio",
+    "description": "In 1965, a nursing student follows her brother to serve during the Vietnam War and returns to a divided America. Read by Julia Whelan. 14 hours, 57 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250178633.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 142,
+    "title": "JUST FOR THE SUMMER",
+    "authors": "Ab Jimenez",
+    "publisher": "Hachette Audio",
+    "description": "Justin and Emma, whose exes find soulmates after breaking up with them, have a fling on a private island on Lake Minnetonka. Read by Christine Lakin, Zachary Webber and the author. 11 hours, 43 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538704431.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 143,
+    "title": "DUNE",
+    "authors": "Frank Herbert",
+    "publisher": "Macmillan Audio",
+    "description": "The 1965 science fiction novel that is the basis of several adaptations. Read by Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance and Ilyana Kadushin. 21 hours, 2 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781427201447.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 144,
+    "title": "FIRST LIE WINS",
+    "authors": "Ashley Elston",
+    "publisher": "Penguin Audio",
+    "description": "A woman who works for a mysterious boss takes on a new identity to dig up information on someone. Read by Saskia Maarleveld. 9 hours, 17 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593492918.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 145,
+    "title": "IRON FLAME",
+    "authors": "Rebecca Yarros",
+    "publisher": "Recorded Books",
+    "description": "The second book in the Empyrean series. Violet Sorrengail’s next round of training might require her to betray the man she loves. Read by Rebecca Soler and Teddy Hamilton. 28 hours, 16 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374172.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 146,
+    "title": "THE THREE-BODY PROBLEM",
+    "authors": "Cixin Liu",
+    "publisher": "Macmillan Audio",
+    "description": "Different groups form to help or fight a crumbling alien civilization coming to invade Earth; the basis of the streaming series. Translated by Ken Liu. Read by Luke Daniels. 13 hours, 26 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780765382030.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 147,
+    "title": "FUNNY STORY",
+    "authors": "Emily Henry",
+    "publisher": "Penguin Audio",
+    "description": "After their exes run off together, Daphne and Miles form a friendship and concoct a plan involving misleading photos. Read by Julia Whelan. 11 hours, 23 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593441282.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 203,
+    "title": "TOM CLANCY: FLASH POINT",
+    "authors": "Don Bentley",
+    "publisher": "Berkley",
+    "description": " When aircraft from rival nations have a midair collision and the Campus is attacked, Jack Ryan Jr. tries to avert a war.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593422809.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 148,
+    "title": "FOURTH WING",
+    "authors": "Rebecca Yarros",
+    "publisher": "Recorded Books",
+    "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders. Read by Rebecca Soler and Teddy Hamilton. 20 hours, 47 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 149,
+    "title": "A COURT OF THORNS AND ROSES",
+    "authors": "Sarah J. Maas",
+    "publisher": "Recorded Books",
+    "description": "After killing a wolf in the woods, Feyre is taken from her home and placed inside the world of the Fae. Read by Jennifer Ikeda. 16 hours, 7 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 150,
+    "title": "THE HEAVEN & EARTH GROCERY STORE",
+    "authors": "James McBride",
+    "publisher": "Penguin Audio",
+    "description": "Secrets held by the residents of a dilapidated neighborhood come to life when a skeleton is found at the bottom of a well. Read by Dominic Hoffman. 12 hours, 22 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593422946.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 151,
+    "title": "A COURT OF MIST AND FURY",
+    "authors": "Sarah J. Maas",
+    "publisher": "Recorded Books",
+    "description": "The second book in the Court of Thorns and Roses series. Feyre gains the powers of the High Fae and a greater evil emerges. Read by Jennifer Ikeda. 23 hours, 16 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781635575583.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 152,
+    "title": "LISTEN FOR THE LIE",
+    "authors": "Amy Tintera",
+    "publisher": "Macmillan Audio",
+    "description": "A true crime podcast focusing on the unsolved murder of her friend forces Lucy to return to where it happened. Read by Will Damron and January LaVoy. 9 hours, 18 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250880314.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 153,
+    "title": "THE TEACHER",
+    "authors": "Freida McFadden",
+    "publisher": "Hollywood Upstairs",
+    "description": "A math teacher at Caseham High suspects there is more going on behind a scandal involving a teacher and a student. Read by Leslie Howard and Danny Montooth. 9 hours, 35 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728296210.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 154,
+    "title": "A CALAMITY OF SOULS",
+    "authors": "David Baldacci",
+    "publisher": "Hachette Audio",
+    "description": "Lawyers from different backgrounds represent a Black man charged with killing a wealthy white couple in Virginia in 1968. Read by MacLeod Andrews, Sisi Aisha Johnson, Kiiri Sandy, Cary Hite and the author. 14 hours, 28 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 155,
+    "title": "THE COVENANT OF WATER",
+    "authors": "Abraham Verghese",
+    "publisher": "Recorded Books",
+    "description": "Three generations of a family living on South India’s Malabar Coast suffer the loss of a family member by drowning. Read by the author. 31 hours, 16 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 156,
+    "title": "THE ANXIOUS GENERATION",
+    "authors": "Jonathan Haidt",
+    "publisher": "Penguin Audio",
+    "description": "A co-author of “The Coddling of the American Mind” looks at the mental health impacts that a phone-based life has on children. Read by Sean Pratt and the author. 10 hours, 33 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593655030.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 157,
+    "title": "I'M GLAD MY MOM DIED",
+    "authors": "Jennette McCurdy",
+    "publisher": "Simon & Schuster Audio",
+    "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother. Read by the author. 6 hours, 25 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 158,
+    "title": "NUCLEAR WAR",
+    "authors": "Annie Jacobsen",
+    "publisher": "Penguin Audio",
+    "description": "The author of “Operation Paperclip” portrays possible outcomes in the minutes following a nuclear missile launch. Read by the author. 11 hours, 20 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593476093.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 159,
+    "title": "OUTLIVE",
+    "authors": "Peter Attia with Bill Gifford",
+    "publisher": "Random House Audio",
+    "description": "A look at recent scientific research on aging and longevity. Read by Peter Attia. 17 hours, 8 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 160,
+    "title": "GREENLIGHTS",
+    "authors": "Matthew McConaughey",
+    "publisher": "Random House Audio",
+    "description": "The Academy Award-winning actor shares snippets from the diaries he kept over 35 years. Read by the author. 6 hours, 42 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 161,
+    "title": "THE BODY KEEPS THE SCORE",
+    "authors": "Bessel van der Kolk",
+    "publisher": "Penguin Audio",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery. Read by Sean Pratt. 16 hours, 17 minutes unabridged. ",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 162,
+    "title": "REBEL RISING",
+    "authors": "Rebel Wilson",
+    "publisher": "Simon & Schuster Audio",
+    "description": "The comedic actress shares impactful experiences from her childhood in Australia to more recent obstacles in life. Read by the author. 10 hours, 48 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668007204.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 163,
+    "title": "EXTREME OWNERSHIP",
+    "authors": "Jocko Willink and Leif Babin",
+    "publisher": "Macmillan Audio",
+    "description": "Applying the principles of Navy SEALs leadership training to any organization. Read by the authors. 8 hours, 15 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781466874961.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 164,
+    "title": "AGE OF REVOLUTIONS",
+    "authors": "Fareed Zakaria",
+    "publisher": "Simon & Schuster Audio",
+    "description": "The CNN host draws out lessons for the present polarized era from the 17th-century Netherlands, the French Revolution and the Industrial Revolution. Read by the author. 13 hours, 2 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780393239232.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 165,
+    "title": "AN UNFINISHED LOVE STORY",
+    "authors": "Doris Kearns Goodwin",
+    "publisher": "Simon & Schuster Audio",
+    "description": "A trove of items collected by the Pulitzer Prize-winning historian’s late husband inspired an appraisal of central figures and pivotal moments of the 1960s. Read by Bryan Cranston and the author. 17 hours, 38 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982108663.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 166,
+    "title": "ELON MUSK",
+    "authors": "Walter Isaacson",
+    "publisher": "Simon & Schuster Audio",
+    "description": "The author of “The Code Breaker” traces Musk’s life and summarizes his work on electric vehicles, private space exploration and artificial intelligence. Read by Jeremy Bobb. 20 hours, 27 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781982181284.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 167,
+    "title": "SOCIOPATH",
+    "authors": "Patric Gagne",
+    "publisher": "Simon & Schuster Audio",
+    "description": "Gagne, who was diagnosed as a sociopath when she was in college, reconnects with someone from her past who helps her chart her future. Read by the author. 11 hours, 6 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668003183.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 168,
+    "title": "BAD THERAPY",
+    "authors": "Abigail Shrier",
+    "publisher": "Penguin Audio",
+    "description": "Shrier makes her case that the mental health industry has a negative impact on American children. Read by the author. 8 hours, 57 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593542927.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 169,
+    "title": "THE WOMAN IN ME",
+    "authors": "Britney Spears",
+    "publisher": "Simon & Schuster Audio",
+    "description": "The Grammy Award-winning pop star details her personal and professional experiences, including the years she spent under a conservatorship overseen by her father. Read by Michelle Williams. 5 hours, 31 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781668009048.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 204,
+    "title": "THE PARIS APARTMENT",
+    "authors": "Lucy Foley",
+    "publisher": "Morrow",
+    "description": "Jess has suspicions about her half-brother’s eclectic and unfriendly neighbors when he goes missing.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063003057.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 170,
+    "title": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+    "authors": "Matthew Perry",
+    "publisher": "Macmillan Audio",
+    "description": "The late actor, known for playing Chandler Bing on “Friends,” shares stories from his childhood and his struggles with sobriety. Read by the author. 8 hours, 49 minutes unabridged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 171,
+    "title": "ATOMIC HABITS",
+    "authors": "James Clear",
+    "publisher": "Avery",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 172,
+    "title": "THE ALGEBRA OF WEALTH",
+    "authors": "Scott Galloway",
+    "publisher": "Portfolio",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593714027.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 173,
+    "title": "THE CREATIVE ACT",
+    "authors": "Rick Rubin with Neil Strauss",
+    "publisher": "Penguin Press",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593652886.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 174,
+    "title": "SUPERCOMMUNICATORS",
+    "authors": "Charles Duhigg",
+    "publisher": "Random House",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593243916.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 175,
+    "title": "WORTHY",
+    "authors": "Jamie Kern Lima",
+    "publisher": "Hay House",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781401977603.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 176,
+    "title": "THINKING, FAST AND SLOW",
+    "authors": "Daniel Kahneman",
+    "publisher": "Farrar, Straus & Giroux",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 177,
+    "title": "CO-INTELLIGENCE",
+    "authors": "Ethan Mollick",
+    "publisher": "Portfolio",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593716717.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 178,
+    "title": "HIDDEN POTENTIAL",
+    "authors": "Adam Grant",
+    "publisher": "Viking",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593653142.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 179,
+    "title": "I WILL TEACH YOU TO BE RICH, SECOND EDITION",
+    "authors": "Ramit Sethi",
+    "publisher": "Workman",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781523507870.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 180,
+    "title": "BUILD THE LIFE YOU WANT",
+    "authors": "Arthur C. Brooks and Oprah Winfrey",
+    "publisher": "Portfolio",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593545409.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 181,
+    "title": "THE SCARLET SHEDDER",
+    "authors": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "The 12th book in the Dog Man series. Dog Man finds himself back on his hind legs after being sprayed by a skunk.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338896435.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 182,
+    "title": "JUJUTSU KAISEN, VOL. 22",
+    "authors": "Gege Akutami",
+    "publisher": "VIZ Media",
+    "description": "A cursed spirit threatens to put Maki and Noritoshi in danger.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781974743414.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 183,
+    "title": "TWENTY THOUSAND FLEAS UNDER THE SEA",
+    "authors": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "The 11th book in the Dog Man series. Piggy returns and the Supa Buddies are sabotaged.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338801910.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 184,
+    "title": "WINTER TURNING",
+    "authors": "Tui T. Sutherland.",
+    "publisher": "Scholastic",
+    "description": "The seventh book in the Wings of Fire graphic novel series. Winter must face his family in the Ice Kingdom.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338730920.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 185,
+    "title": "INFLUENCERS",
+    "authors": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "The fifth book in the Cat Kid Comic Club series. As publication seems possible, the baby frogs feel doubt.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338896398.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 186,
+    "title": "INVINCIBLE COMPENDIUM ONE",
+    "authors": "Robert Kirkman with various illustrators",
+    "publisher": "Image Comics",
+    "description": "Mark Grayson faces the unexpected when he becomes a hero. Collects the first nine volumes of the comic and is the basis of the animated series.",
+    "imgUrl": null,
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 187,
+    "title": "I SURVIVED THE BATTLE OF D-DAY, 1944",
+    "authors": "Lauren Tarshis.",
+    "publisher": "Scholastic",
+    "description": "Paul Colbert uncovers a secret resistance movement; adapted into a graphic novel by Georgia Ball.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338883046.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 188,
+    "title": "BERSERK DELUXE, VOL. 1",
+    "authors": "Kentaro Miura",
+    "publisher": "Dark Horse",
+    "description": "A swordsman teams up with the leader of a mercenary band to fight evil forces; collects the first three issues of the manga series.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781506711980.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 189,
+    "title": "CLAUDIA AND THE BAD JOKE",
+    "authors": "Ann M. Martin.",
+    "publisher": "Scholastic",
+    "description": "The 15th book in the Baby-Sitters Club graphic novel series. Things escalate when a practical joker causes Claudia to break her leg.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338835502.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 190,
+    "title": "TEENAGE MUTANT NINJA TURTLES: THE LAST RONIN",
+    "authors": "Kevin Eastman, Peter Laird and Tom Waltz.",
+    "publisher": "IDW",
+    "description": "A lone Turtle goes on a mission to get justice for his family in a post-apocalyptic New York.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781684058419.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 191,
+    "title": "MOTHERING HEIGHTS",
+    "authors": "Dav Pilkey",
+    "publisher": "Scholastic",
+    "description": "The 10th book in the Dog Man series. Can the power of love overcome the darkness and despair created by new villains?",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338680454.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 192,
+    "title": "WAVERIDER",
+    "authors": "Kazu Kibuishi",
+    "publisher": "Scholastic",
+    "description": "The ninth book in the Amulet series. A threat of darkness tests new friends and old foes.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780545828659.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 193,
+    "title": "SPY X FAMILY, VOL. 11",
+    "authors": "Tatsuya Endo",
+    "publisher": "VIZ Media",
+    "description": "A group of activists seeking to free their political allies befuddle a class field trip to a museum.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781974743292.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 194,
+    "title": "INVINCIBLE COMPENDIUM TWO",
+    "authors": "Robert Kirkman with various illustrators",
+    "publisher": "Image Comics",
+    "description": "A second collection of the comic that is the basis of the animated series.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781607067726.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 195,
+    "title": "BAD DREAMS IN THE NIGHT",
+    "authors": "Adam Ellis",
+    "publisher": "Andrews McMeel",
+    "description": "A collection of horror tales.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781524887186.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 196,
+    "title": "PALAZZO",
+    "authors": "Danielle Steel",
+    "publisher": "Dell",
+    "description": "Challenges arise when a young woman takes over her family’s haute couture Italian leather brand and 400-year-old palazzo in Venice.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781984821898.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 197,
+    "title": "DESERT STAR",
+    "authors": "Michael Connelly",
+    "publisher": "Grand Central",
+    "description": "Ballard and Bosch bury old resentments as they go after two killers.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780316485654.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 198,
+    "title": "PRIVATE MOSCOW",
+    "authors": "James Patterson and Adam Hamdy",
+    "publisher": "Grand Central",
+    "description": "The 15th book in the Private series. A murder in Moscow appears to be linked to one that happened inside the New York Stock Exchange.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538752630.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 199,
+    "title": "THE WINNER",
+    "authors": "David Baldacci",
+    "publisher": "Grand Central",
+    "description": "LuAnn Tyler deals with the consequences of breaking a promise that paid her a $100 million lottery jackpot.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538768884.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 200,
+    "title": "BLESSING OF THE LOST GIRLS",
+    "authors": "J.A. Jance",
+    "publisher": "Morrow",
+    "description": "Sheriff Joanna Brady assists a federal investigator who finds resonance between a cold case he is assigned and his family's past.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063010116.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 201,
+    "title": "DREAMLAND",
+    "authors": "Nicholas Sparks",
+    "publisher": "Dell",
+    "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593449554.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 202,
+    "title": "NIGHTWORK",
+    "authors": "Nora Roberts",
+    "publisher": "St. Martin's Griffin",
+    "description": "Harry Booth, a master thief, breaks things off with Miranda when a dangerous contact might harm her.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250278197.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 205,
+    "title": "A LITTLE BIT COUNTRY",
+    "authors": "Debbie Macomber",
+    "publisher": "Harlequin",
+    "description": "A woman from San Francisco falls for a horse rancher who is engaged to another woman.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781335008787.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 206,
+    "title": "THE BOYS FROM BILOXI",
+    "authors": "John Grisham",
+    "publisher": "Vintage",
+    "description": "Two childhood friends follow in their fathers’ footsteps, which puts them on opposite sides of the law.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 207,
+    "title": "THE WICKED AND THE DEAD",
+    "authors": "William W. Johnstone and J.A. Johnstone",
+    "publisher": "Pinnacle",
+    "description": "After escaping a prison somewhere south of the Rio Grande, Hack Long and his outlaws look to get back their ill-gotten gains.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780786051212.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 208,
+    "title": "THE JENSEN DYNASTY",
+    "authors": "William W. Johnstone and J.A. Johnstone",
+    "publisher": "Pinnacle",
+    "description": "Two western stories: “Smoke Jensen: The Beginning” and “Luke Jensen, Bounty Hunter.”",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780786050406.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 209,
+    "title": "FALLING FOR ALASKA",
+    "authors": "Belle Calhoune",
+    "publisher": "Forever",
+    "description": "A former professional football player and restaurateur fight for ownership of a tavern and each other’s hearts in Moose Falls, Alaska.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538758205.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 210,
+    "title": "DREAM TOWN",
+    "authors": "David Baldacci",
+    "publisher": "Grand Central",
+    "description": "The third book in the Archer series. Archer, Dash and Callahan search for a missing screenwriter who had a dead body turn up in her home.",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781538719770.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 211,
+    "title": "TAYLOR SWIFT: THE WHOLE STORY",
+    "authors": "Chas Newkey-Burden",
+    "publisher": "HarperCollins",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780008680718.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 212,
+    "title": "A LONG WALK TO WATER",
+    "authors": "Linda Sue Park",
+    "publisher": "Clarion",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780547577319.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 213,
+    "title": "RESTART",
+    "authors": "Gordon Korman",
+    "publisher": "Scholastic",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781338053807.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 214,
+    "title": "THE LAST CUENTISTA",
+    "authors": "Donna Barba Higuera",
+    "publisher": "Levine Querido",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781646140893.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 215,
+    "title": "WISH",
+    "authors": "Barbara O'Connor",
+    "publisher": "Square Fish",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781250144058.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 216,
+    "title": "OUT OF MY MIND",
+    "authors": "Sharon M. Draper",
+    "publisher": "Atheneum",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781416971719.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 217,
+    "title": "A WOLF CALLED WANDER",
+    "authors": "Rosanne Parry.",
+    "publisher": "Greenwillow",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780062895936.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 218,
+    "title": "A ROVER'S STORY",
+    "authors": "Jasmine Warga",
+    "publisher": "Balzer + Bray",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780063113923.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 219,
+    "title": "FISH IN A TREE",
+    "authors": "Lynda Mullaly Hunt",
+    "publisher": "Nancy Paulsen",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780399162596.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 220,
+    "title": "OUT OF MY HEART",
+    "authors": "Sharon M. Draper",
+    "publisher": "Atheneum/Caitlyn Dlouhy",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781665902168.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 221,
+    "title": "IF ONLY I HAD TOLD HER",
+    "authors": "Laura Nowlin",
+    "publisher": "Sourcebooks Fire",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728276229.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 222,
+    "title": "IF HE HAD BEEN WITH ME",
+    "authors": "Laura Nowlin",
+    "publisher": "Sourcebooks Fire",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781402277832.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 223,
+    "title": "BETTER THAN THE MOVIES",
+    "authors": "Lynn Painter",
+    "publisher": "Simon & Schuster",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781534467637.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 224,
+    "title": "LIGHTLARK",
+    "authors": "Alex Aster",
+    "publisher": "Amulet",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781419760877.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 225,
+    "title": "FIVE SURVIVE",
+    "authors": "Holly Jackson",
+    "publisher": "Ember",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 226,
+    "title": "GIRL IN PIECES",
+    "authors": "Kathleen Glasgow",
+    "publisher": "Ember",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781101934715.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 227,
+    "title": "THE GIRLS I'VE BEEN",
+    "authors": "Tess Sharpe",
+    "publisher": "Putnam",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9780593353820.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 228,
+    "title": "A THOUSAND BOY KISSES",
+    "authors": "Tillie Cole",
+    "publisher": "Bloom",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728297088.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 229,
+    "title": "THE SUMMER OF BROKEN RULES",
+    "authors": "K.L. Walther",
+    "publisher": "Sourcebooks Fire",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781728210292.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  },
+  {
+    "id": 230,
+    "title": "SIX OF CROWS",
+    "authors": "Leigh Bardugo",
+    "publisher": "Square Fish",
+    "description": "",
+    "imgUrl": "https://storage.googleapis.com/du-prd/books/images/9781627792127.jpg",
+    "createdAt": "2024-05-15T10:24:16.758Z",
+    "updatedAt": "2024-05-15T10:24:16.758Z"
+  }
+]
